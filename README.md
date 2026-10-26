@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/pranavshet45731" target="blank"><img src="https://img.shields.io/twitter/follow/pranavshet45731?logo=twitter&style=for-the-badge" alt="pranavshet45731" /></a> </p>
 
-- 🔭 I’m currently **Study in 3rd year of B.Tech in Computer Science & Engineering**
+- 🔭 I’m currently **Study in 4th year of B.Tech in Computer Science & Engineering**
 
 - 🌱 I’m currently learning **Full Stack Development, Python**
 
